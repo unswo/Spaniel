@@ -34,7 +34,9 @@ Suggests:
     knitr,
     rmarkdown,
     testthat,
-    devtools
+    devtools,
+    doParallel,
+    imager
 VignetteBuilder: knitr
 RoxygenNote: 7.0.2
 biocViews: SingleCell, RNASeq, QualityControl, 
